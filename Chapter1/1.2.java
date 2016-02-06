@@ -18,7 +18,7 @@ public class isPermutation {
 		String[][] pairs={{"apple", "papel"}, {"carrot", "tarroc"}, {"aahh", "hhhh"}};
 		for(String[] pair : pairs)
 		{
-			System.out.println(isPermutation2(pair[0],pair[1]));
+			System.out.println(isPermutation(pair[0],pair[1]));
 		}
 	}
 
