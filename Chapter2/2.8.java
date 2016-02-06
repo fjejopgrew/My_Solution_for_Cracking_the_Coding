@@ -13,7 +13,7 @@ public class Q8
 			break;
 		}		
 		
-		//error check-no meeting point, and therefore no loop
+		
 		if(fast==null||fast.next==null)
 		{
 			return null;
