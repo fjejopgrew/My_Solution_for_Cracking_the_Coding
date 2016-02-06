@@ -25,7 +25,7 @@ public class Q1
 	public static void main(String[] args)
 	{
 		// TODO Auto-generated method stub
-		LinkedListNode first = new LinkedListNode(0, null, null); // AssortedMethods.randomLinkedList(1000,
+		LinkedListNode first = new LinkedListNode(0, null, null); 
 																	// 0, 2);
 		LinkedListNode head = first;
 		LinkedListNode second = first;
