@@ -1,8 +1,5 @@
 package Q5;
 
-/*********************************************/
-/***************** Problem 5 *****************/
-/*********************************************/
 public class sparseSearch
 {
 	public static int search(String[] str, String s, int first, int last)
